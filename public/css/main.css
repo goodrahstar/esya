@@ -9,7 +9,6 @@ body
 .box{
 border: 2px solid #8AC007;
 min-height: 120px;
-text-align: center;
 }
 
 .box:hover{
