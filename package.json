@@ -1,0 +1,8 @@
+{
+  "name": "Esya",
+  "version": "0.0.1",
+  "description": "Tic tac toe",
+  "dependencies": {
+    "express": "^4.10.1"    
+  }
+}

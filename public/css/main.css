@@ -1,0 +1,18 @@
+body
+{
+	margin:0; 
+	padding:0;	
+	overflow-x:hidden;
+    
+}
+
+.box{
+border: 2px solid #8AC007;
+min-height: 120px;
+text-align: center;
+}
+
+.box:hover{
+cursor:pointer;
+background-color: #EEEEEE;
+}
